@@ -1,11 +1,84 @@
 =================>  WELCOME WELCOME WELCOME  <=============
 
-====> I am So Excited to have you here with me,My real name is Mojiboye Emmanuel Oluwole but I get called 
-Dynasty, Emzzy'sDynasty, Emmanuel, MJ, MB and even the Reverend Father, you can call me any of the above names or just give me a name yourself :) <====
 
-===> Now before I go ahead and start bugging your head on what to write in your newly bought PC, I want you to pause for a second and ask yourself why you 
-WANT TO LEARN TO CODE, ASK YOURSELF: "WHY DO I WANT TO LEARN TO CODE"...... If you love writing with a pen like me, state that reason down; you can also make use of an online notepad
-or whatever, just ensure you know the WHY of your CODING JOURNEY. And if you still can't pick up the Why, no Problem Just keep on Learning with me <===
+=================>  THIS IS
+Learn-Frontend-Development-the-way-I-learnt-1.0.0 and its great to have you here
+  <=============
+
+    =====> CONTENTS OF THIS CLASS <=====
+    A. WELCOME Address
+    B. A Bit of Analogy
+    C. WHEN I Started to Code
+    D. COVERING the HOW on CODING
 
 
-====> Here's a little bit of analogy: AND THEN THERE'S YOU; You keep lookng on Twitter, Instagram and you see posts related to software development and then you go: "WHEN WOULD I LEARN TO CODE" or if you are like me that was always asking the question "GOD WHEN WOULD I BE A PROGRAMMER LIKE THEM".
+
+A. WELCOME Address  ====> 
+    I am So Excited to have you here with me,My real name is Mojiboye Emmanuel Oluwole but I get called 
+    Dynasty, Emzzy'sDynasty, Emmanuel, MJ, MB and even the Reverend Father, you can call me any of the above names or just give me a name yourself :) <====
+
+    ===> Now before I go ahead and start bugging your head on what to write in your newly bought PC, I want you to pause for a second and ask yourself why you 
+    WANT TO LEARN TO CODE, ASK YOURSELF: "WHY DO I WANT TO LEARN TO CODE"...... If you love writing with a pen like me, state that reason down; you can also make use of an online notepad
+    or whatever, just ensure you know the WHY of your CODING JOURNEY. And if you still can't pick up the Why, no Problem Just keep on Learning with me <===
+
+====>
+
+B. A Bit of Analogy  ====> 
+    
+    Here's a little bit of analogy: AND THEN THERE'S YOU; You keep lookng on Twitter, Instagram and you see posts related to software development and then you go: "WHEN WOULD I LEARN TO CODE" or if you are like me that was always asking the question "GOD WHEN WOULD I BE A PROGRAMMER LIKE THEM".
+    Then tell yourself "Yo, I need Discipline". Trust Me that's really what you need, I no longer believe in Motivation, I would say it again: "I NEED DISCIPLINE", because only discipline keeps yo going, motivation to me is just A person telling me what to do when I already know what I want to do... I love teaching with real life experiences though, here is one: You are giving yourself Motivations, Motivational quotes, Motivational videos, Motivational Audio Books when you alreadyknow what to do... Another example, you're feeding yourself up with Motivation to make money when you within yourself: YOU NEED TO MAKE MONEY. 
+    That isn't very good of you and that explains why the Self development Industry was a 41.7billion dollar industry and is estimated to become a 59.8billion dollar industryby 2028, and I am not saying motivation is bad, some People believe in it but I don't and this is because what I understand about a thing called Self Development(which is greatly related to Motivation) is me reading every Self development books out there, Its me buying, buying and buying which leads to me spending and spending and spending more money on Self Development Materials for coding rather than me actually writing CODE.... This to me isn't the best way to go about learning a skill, TO clear things up
+    a bit, let me use the tech world to explain: "You as a person know within yourself you want to Learn software development and instead of asking yourself the question: HOW, you keep watching them Motivational videos. It could be for any reason you want to learn code, you might be wanting to build an application for your Mom's next Birthday, you might be wanting to Show your Dad a Countdown till when he Visits you or whatever, then instead of you Learning to code right away you keep on Procrastinating; YOU WILL NEVER LEARN TO CODE"
+
+    Sorry for being a little bit dramatic but its's the truth
+
+    "There is no better time to learn to code than NOW"
+<====
+
+
+C. WHEN I Started to Code ===>
+    "I started learning how to code because of the big word called INDEPENDENCE. I wanted to help my Parents out especially My Mom because she still keeps on trying for her Beloved Last Child, and she still believes in all her Kids Succeeding in whatever they do.... Having told you a bit of my story let me tell you a it more: 
+    I started coding about 3 years ago, during the Covid Era. I was in an Harvard Computer Science and 
+
+    I know you might be thinking: 'Oh he attended a Class at Harvard and he says all of this, he is much more priviledged that us who don't have the fees for an Harvard's Class'
+    And My answer to that is: No you are Wrong, I didn't pay a dime in there and they also didn't ask for a dime from me; It was all Free and the only time  would have to pay less than 200$ I guess was for their Certificate
+    Check it out now on your iPhone: Harvard Free Online Courses, Its also called "CS50---Computer Science50", David Malan Teaches the course and I love the way he Teaches.
+
+    I come from Africa(Nigeria) and in Africa we believe the best way to make money and to make a large chunk of it, is the TECH Industry
+
+    So, The Same way in Brazil, Argentina and many other Countries it is believed that the only way to make a lot of Money is Playing Football, here in Africa we believe in the Tech Industry because we've seen and heard stories of the PayStack guys, and many more
+
+
+    In the Covid Era, not only was I wanting to Help my Parents out but I also wanted to help myself out; because If there is one thing my Father keeps ringing in his Children's ears is that you are not entitled to anything he gives you, and that he could choose to be an irresponsible Father where he won't spend a dime on us, he could even choosee not to care for our (his Children's) basic neccessities
+    That Statement alone made me say to myself: "I MUST BE INDEPENDENT"
+
+    I love Story telling, I really do. So Please Forgive me as I love to Teach with what I have experienced, with real life situations, because as the name of this course suggest it says:
+    Learn-Frontend-Development-the-way-I-learnt-1.0.0 and that was by me comparing what I was learning to real Life situations
+
+    Having covered another section of the course Let us continue
+
+===>
+
+
+D. COVERING the HOW on CODING ===>
+    AS I said Earlier On; You need to Start ASKING YOURSELF: HOW DO I START LEARNING TO CODE. I would show you My way and another way
+    My WAY: Start From a Complete scratch and not the Scratch Many Course Sellers or Youtubers call scratch I mean a very Complete Scratch.
+        One thing many Youtubers or some Course Sellers say is: you only learn coding by building things and I really love that, I would repeat it again: YOU WILL LOVE YOUR CODING JOURNEY IF YOU ARE BUILDING THINGS
+        And Now for me, I have an addition to the Statement(YOU ONLY LEARN CODING BY BUILDING THINGS).... If truky you learn coding by building things wouldn't it be great to have a place where you store those things you've built?? Picture this: You COOK for an Eatery and you cook a lot of Foods for them, wouldn't it be great to have a place you store all of your already cooked Meals so you can showcase them to the Eatery and truly Prove your cooking capabilities?
+        If your answer to the above question is YES, you definitely need the first tool we will be talking about and that tool is called GIT.
+        As I said earlier on that I started coding in the Covid Era, I would never wish my Coding Experience on my Enemy, THIS IS BECAUSE I MADE NO PROGRESS AND EARLY ON I DID NOT KNOW I WASN"T MAKING ANY PROGRESS.
+        
+        I was a guy that could learn about conda packages, Python Installments in the morining and at Night I download a Youtube tutorial on HOW TO BUILD THE AMAZON WEBSITE WITH Nextjs when I didn't even know what JavaScript was..... I know senior Developers reading this would be stunned and they'll be laughng, I am also Laughing right now and I laugh at myself anytime I remember those awful experiencesof not making any Progress but lying to yourself that you were
+
+        Trust me it was a terrible experience and I was overwhelmed because I was learning too much at a time, Fast Forward 2022 I entered a Bootcamp(Sponsored by my Mom at First and later I Sponsored myself) and ever since then I keep showing People my Way of Learning to Code which I feel is the best way of Learning to code which I feel is really the best way to code
+
+        As I have given several instances above, let me tell you My Way of learning to code and that is starting with the Version Control System called GIT(This is really a great tool) and I call Github its senior rother because thats where you actually Store all of your Previously written codes(In the above analogy, where you store the Foods you've cooked Previously)
+
+        Having said that we are done with The FIrst Class
+
+        Get yourself a pen or marker to tick you TO DO List: I completed ClassONE of my Frontend Development JOURNEY
+        
+        THIS WAS Learn-Frontend-Development-the-way-I-learnt-1.0.0 and THank you For Having Me
+<====
+
+OFF TO CLASSTWO, Let's Keep Moving FORWARD, DONT FORGET WE BOTH NEED DISCIPLINE TO LEARN TO CODE OR LEARN ANY SKILL AND NOT MOTIVATIONS
