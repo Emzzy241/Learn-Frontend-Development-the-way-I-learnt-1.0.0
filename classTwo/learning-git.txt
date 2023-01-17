@@ -1,0 +1,76 @@
+=================>  WELCOME WELCOME WELCOME  <=============
+
+
+=================>  THIS IS
+Learn-Frontend-Development-the-way-I-learnt-1.0.0 and its great to have you here
+  <=============
+
+    =====> CONTENTS OF TODAY'S CLASS <=====
+    A. How Do I Download Git?
+    B. Benefits of Using Git?
+    C. When would I write my FIrst Git Command?
+    D. What More can I expect From Git?
+    E. Alternatives To Git    
+    F. End of Class Two   
+
+    
+   A. How Do I Download Git? =====> 
+        On google chrome, or Mozilla Firefox or whatever Browser you are making use of, Search: Download Git Bash for Windows(Be sure to change Windows to a Mac or a Linux/Unix Operating System If you Use any of them)
+        Or you could visit this link: https://git-scm.com/downloads and you can select your Operating System right there
+
+        Having Covered the How TO Download Git, Let's move on to the next CONTENT
+    <=====
+
+
+    
+   B. Benefits of Using Git =====> 
+        A Huge Chunk on How Beneficiary Git is has been covered in the Previous class(classOne) but as a bit of Summary here are sum of them:
+        * You Become the Boss of your Own code
+        * You can literally store thousands and thousand of Projects on your Github Repositiory
+        * You can choose to make any of your Repository Public or Private
+        * You can Clone, Fork(we will be covering this later) People's codes, make changes to them and re-push them to your own Repositiory
+        * And Many More
+    <=====
+
+
+
+    C. When would I write my FIrst Git Command? ======>
+        And the answer to that is: Right Now!
+        If Truly Git was Downloaded and Installed, then on your Desktop(an empty space) right-click and select the option: Git Bash Here.
+
+        A Prompt gets Opened for you, with your Desktop Name shown on it, That Prompt is called the Git Terminal, As you can see you can write in that Terminal.
+        In that Prompt, write the following:
+        --> mkdir Learn 
+        THen Enter; Look into your Destop Screen an you see a yellow stuff has been created with the name: Learn. That yellow stuff is called a FOlder or as we call it n Programming 
+        I KNOW you are wondering what the mkdir command is, just know that its a command that helps you create folders in any Location, right now you are in your Desktop and a Folder has been created for you there
+        Again, mkdir stands for make directory..... We tell Git to make us a directory and then when specify what we want to name it
+
+
+        The next is: 
+        --> touch myFile.txt
+        The touch Command helps us create Files of any extension(a .txt extension is the file extension for a text documents)
+        Practice creating other file like that of Microsoft Document with is a fileName.docx, a music file: myMusic.mp3, a video file: myVid.mp4
+        N
+
+
+        <======
+
+        D. What More can I expect From Git? =====>
+            Answer: Many any Things, I told you earlier on that Git is a very Powerful tool and creating a Folder and a File like we did above is just one of the few things it can do
+
+        <=====
+
+        E. Alternatives To Git    ====>
+            Since we would solely be making use of GIt in all classes, Sorry I won't be teaching you on their Alternatives; but you should know there are: THere is Gitlab, and may more.
+            Be sure to explore all of THem Further
+        <=====
+
+
+
+        Create many directories[folders or yellow stuff :)], Research more types of files and create them 
+        Create them today, tomorrow, next tomorrow e.t.c
+        Don't Forget to go for Discipline and not Motivation
+
+        F. End of Class Two  ====>
+            That's a Wrap FOr now; Seeyou in the Next Class ---- Have Fun and don't forget to keep Smiling :)
+        <====
