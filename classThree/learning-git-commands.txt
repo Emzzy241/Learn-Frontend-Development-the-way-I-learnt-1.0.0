@@ -1,0 +1,105 @@
+=================>  WELCOME WELCOME WELCOME  <=============
+
+
+=================>  THIS IS
+Learn-Frontend-Development-the-way-I-learnt-1.0.0 and its great to have you here
+  <=============
+
+    ====> WELCOME TO CLASS THREE <====
+
+  
+    =====> CONTENTS OF THIS CLASS <=====
+    A. Other things the Command mkdir(make directory) can achieve
+    B. THE touch Command
+    C. THE ls Command
+    D. SUMMARIZING THE CLASS
+
+
+
+  Today we will be learning more commands on our amazing GIT
+
+    A. Other things the Command mkdir(make directory) can achieve 
+    ====>
+        Last Class we talked about the command: mkdir
+        LEts summarize a bit on how powerful this command is:
+
+        Yes, so when you want to create a Folder, correct me If I am wrong, you First righ-click, then you select New and you click on Folder
+        Right?
+        Yeah
+        BUT What if you wanted to create 10 folders at a goal, that means 10 right-clicking..... Woah, thats a lot of work and I can tell you that no one likes to do a lot of work.
+        And the fact that you are following this course means we won't be doing a lot of work but we will be working smartly :)
+
+        Now, to create 10 folders with our Git Bash Terminal, we simply do: mkdir folder1 folder2 folder3 folder4 folder5 folder6 folder7 folder8 folder9 folder10
+        NOTE: You must keep a space between each folders Name so git won't think they're all one folder with a very long name.... If you avoid the spaces, you see git creates you only 1 folder with the name: Folder1Folder2Folder3Folder4Folder5....
+
+        HAVING SAID THAT, LET US MOVE ON TO ANOTHER COMMAND
+
+    <====
+
+    B. THE touch Command
+    ====>
+        Last Class, we briefly talked about this command, now in this class we will be using this command to create many more type of files
+        The "touch" Command is used to create a file of any extension, and when we say any extension, it could mean the .txt(a text file), the .html(an html file), the .css(a css file), the .mp4(a video file), e.t.C
+
+        Now, let us create more files. DO THE FOLLOWING IN THE git bash Terminal:
+        touch myFile.pdf --> THis creates you a PDF file
+        touch myFile.html ---> THis creates you an HTML file
+        touch myFile.mp3 ---> this creates you an Mp3(a music) file
+        touch myFile.Mp4 ---> this creates you an Mp4(a video) file
+
+
+        Also, you can create multiple folders with the touch command(just like we did with our mkdir command), all you have to do is: touch myFileOne.mp3 myFileTwo.pdf myFileThree.html myFileFour.zip
+        AND YOU CAN CREATE MANY OTHER TYPES OF file
+
+        Don't forget; the goal is to get Disciplined with coding and not source for Motivation with coding
+        
+    <====
+
+
+
+
+    C. THE ls Command
+    ====>
+        Moving on now, let's explore the ls command
+        A quick note, all this does is to help us list out all the files and folders we have in a folder or Present in our Desktop
+
+        Right now, in your git bash Terminal, type in the command: "ls" and see what happens
+        IF there are any files or folders in the Folder you entered your ls command into, you get a list of all files and folders present
+
+        NOTE: Folders are the yellow stuffs and they have no exension(i.e you cannot see a folder having a.pdf at the end)... If you see that, then thats a file and not a folder
+        In summary now, anything that ends with a .pdf, .txt, .zip, .mp3, .mp4, e.t.c is a file 
+        AND things with no dots(. e.g .txt) at the end is a Folder
+
+
+        The goal of what I did here was to clarify to you what a file is and what a folder is
+        
+    <====
+
+
+    D. SUMMARIZING THE CLASS
+    ====>
+        Here we talkedabout the mkdir command, the touch command, and the ls command
+
+        mkdir(short for make directory): It helps us create a directory which can also be called a folder
+        touch: Helps us create a File(you can create a PDF file, a .docx[microsoft document file], .html file) or whatever type of file with this command
+        ls(short for list): THis Command helps us list out all the files, and folders present in the directory(folder) we are in
+
+        PRACTICE:
+            Create a Folder and call it myFavouriteFood
+            Create Four files inside myFavouriteFood Folder: a .mp3 file, a .mp4 file, a .txt file, a .html file, a .pdf file and a .css file in it
+
+            Finally, in the myFavouriteFood directory, try out the ls command and list out all the files you have in it
+
+
+    <====
+
+
+    I HOPE YOU ENJOYED TODAY'S CLASS
+
+    KEEP PRACTICING ALL OF THIS, KEEP CREATING DIRECTORIES WITH DIFFERENT NAMES, KEEP CREATING DIFFERENT FILES, AND HAVE FUN :)
+
+    DON'T FORGET: GO FOR DISCIPLINE IN CODING AND NOT MOTIVATION IN CODING
+
+
+
+
