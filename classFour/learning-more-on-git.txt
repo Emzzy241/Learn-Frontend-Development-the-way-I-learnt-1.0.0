@@ -6,3 +6,16 @@ Learn-Frontend-Development-the-way-I-learnt-1.0.0 and its great to have you here
   <=============
 
     ====> WELCOME TO CLASS FOUR <====
+
+     =====> CONTENTS OF THIS CLASS <=====
+    A. How to Move Files or folders in the Git Terminal
+    B. How to COPY Files or folders in the Git Terminal
+    C. PATHS; What they are, How to Use them in the Git Terminal
+    D. ONLINE RESOURCES TO teach More of Git
+
+
+
+
+A. How to Move Files or folders in the Git Terminal  ====> 
+    
+====>
