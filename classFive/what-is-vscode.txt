@@ -72,3 +72,22 @@ D. THe VsCode Window ====>
 
 <====
 
+E. Writing in a file on Vscode ====>
+    Click on that index.html file you see by the left-hand side in it is where you'll be writing your first Line of code
+
+    And yes I know, there is also a file called learn.txt... you can also click on that one to write anything in it, write anything you want :)
+
+    Before moving on to classSix Tutorial..... In the index.html file(on your vscode window), type in
+    !(an exclammation... hold both shift and 1 together), then press enter
+
+    And you will be presented with a 12 line of code that contains many different things, we'll be COVERING some of them in classSix
+
+    NBut just take it that: those 12 lines of code you are seeing is a boiler plate
+
+    And a boiler plate in Programming is like a Template(a format) on how to go about on things.... So those 12 lines of code is the format in that would guide us on how to write amazing codes with the Language Html
+
+    Don't be angry if you don't really understand whats going on.... JUST KEEP ON PUSHING, you will understand it all as we proceed
+
+    See you in classSix
+
+<====
