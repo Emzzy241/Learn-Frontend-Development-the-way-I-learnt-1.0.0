@@ -97,7 +97,8 @@ E. ONLINE RESOURCES TO teach More of Git ====>
     And if there is one thing I said at the beginning of this Tutorial is that we are all Learners in the Developer world
     Even on my Twitter Page(@Emzzy241) I indicated there that I was a Learner Developer.... Because as a developer you just have to keep Learning new things each and every single day
 
-    So This section E is basically telling you that there are a vast amount of onl
+    So This section E is basically telling you that there are a vast amount of online resources that Teaches other commands on git, I would advice you explore them but only a bit.. Do not try to learn all of them at once, it would be overwhelming for you so don't do that.
+    But what you should do is to ensure you learn only few, I repeat: learn only few of them.... Not a few of them because you are just getting started with coding.
 
-
+    Goodluck :)
 <====
