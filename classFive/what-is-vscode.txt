@@ -37,3 +37,36 @@ B. How TO download VsCode ====>
 
 C. How git and Vscode work hand in hand ====>
     Yes, from the beginning of this Course we have been using the Git Bash Terminal to write Commands; Yeah all you've written are commands.... Now we want to start writing code, and thats why we downloaded a code Editor
+
+    using the 2 programming Tools git and Vscode is pretty great, because if there is one thing I know you must be able to do while writing lines of code, it to be able to show others those codes, and be able to host those codes as websites or Applications for free online
+    THat is where the senior Brother of git comes into place(Github) and Github is a place you can host your codes on, and Githubcan also host your static websites for you... Don't Start thinking too much on what static websites are, later on in this TUtorial you would be able to build both Static Web Apps and Dynamic Web Apps.
+    I won't dive deep into what both static and dynamic websites are.... But just take it that: a Static website is a small website that only needs Frontend work and a Dynamic website on the other hand needs both Frontend work and Backend work
+
+    Having said that, I am reiterating that: One great Ecstacy anyone should aim for in Programming is to be able to show others what You have created, and also show other Developers your well-written codes... and by doing that you get both negative and positive feedbacks
+
+    In summary, take it that: the Git bash Terminal is a place where you create Folders, files for a Project or Application
+    And Vscode is a place you use to write codes in those files and directories you have just created
+
+    For now, just take it as that.... Although there are other usecases for both the Git Bash Terminal and Vscode like Testing code e.t.c.... But for now just take vscode as a place for writing codes and git bash as a place for creating files and directories, deleting, copying, moving files.
+    
+
+
+D. THe VsCode Window ====>
+    VsCode and git are very good friends and once its installed, both git and vscode can communicate with each other 
+    Now do the following:
+
+    First, create a new directory(firstLearn), open your Git Bash Terminal window, add two files in it(index.html and learn.txt) with the touch command.... You already know how to carry out all of that
+
+    Next, in the new directory, still in the Git Bash Terminal window, type in the command:
+    "code ."
+    Automatically, you see a Window welcoming you to Vscode, by the left side you wll see the 2 files(index.html and learn.txt) you added to your firstLearn directory
+
+    As you will recall; I told you any file that ends with an extension(e.g .txt, .html) are all files
+    I also said the .txt file is a text file where you can write basic texts... like a Composition on yourself, your Favourite Fodd, e.t.C
+    THe index.html file is an HTML file(or document) and HTMl stands for Hyper Text Mark-up Language
+    Html is the Language 
+
+
+
+<====
+
