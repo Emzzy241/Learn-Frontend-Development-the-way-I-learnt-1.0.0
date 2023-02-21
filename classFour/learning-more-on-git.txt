@@ -17,5 +17,27 @@ Learn-Frontend-Development-the-way-I-learnt-1.0.0 and its great to have you here
 
 
 A. How to Move Files or folders in the Git Terminal  ====> 
-    
+    Say we have mistakenly created a specific file in the wrong location, we can easily move out the file from the current location into a new location.
+    Just like I have always said that the Git is a very Powerful that even myself don't know many of the Powers git possesses.. For that you can always check out Documentations, Read Online Blogs and you'll learn much more on git
+    But to be very Honest with you, I won't advice you to try and Learn all of the Commands in Git; THat can be overwhelming for new Coders.... THe Commands I have here in this course are enough for you to get started on building your first website.
+    Having said that, lets Practicalize the Move command in git.
+
+    TO move a file from one location to another we use the Command "mv" as demonstrated below
+
+    First, create a Folder named myLearn
+    inside myLearn folder, create 2 folders(name them learn and C-sharp) 
+    Then create 2 files in the learn directory.... a basic "touch learn/index.html and touch learn/noLearn.txt" will do it
+
+    We can easily move the file: noLearn.txt which exists in the learn directory to our other directory named C-sharp with the following command
+
+    PLEASE NOTE: this should be run inside the parent directory: myLearn(i.e we should right-click and select a git bash here inside the Parent directory myLearn), because inside our parent directory(myLearn) is where both our learn and C-sharp folders exists in
+
+    Command: mv learn/noLearn.txt C-sharp
+    Automatically, the command above moves the noLearn.txt file into the C-sharp directory
+
+    Lets go over what we did: We first use the command mv to tell git we want to move something
+    Then we specify where git can find what we want to move.
+    And finally, we tell git the location he should move that thing into(in our case its the noLearn.txt file)
+
 ====>
+
