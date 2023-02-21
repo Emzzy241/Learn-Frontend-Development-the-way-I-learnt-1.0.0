@@ -1,0 +1,39 @@
+=================>  WELCOME WELCOME WELCOME  <=============
+
+
+=================>  THIS IS
+Learn-Frontend-Development-the-way-I-learnt-1.0.0 and its great to have you here
+  <=============
+
+    ====> WELCOME TO CLASS FOUR <====
+
+     =====> CONTENTS OF THIS CLASS <=====
+    A. What is VsCode?
+    B. How TO download VsCode
+    C. How git and Vscode work hand in hand
+    D. THe VsCode Window
+    E. Writing in a file on Vscode
+   
+A. What is VsCode? ====>
+    First off, I need to congratulate you and give yourself a Pat on the back because you made it to classFive without giving up :)
+
+    Moving on, Vscode is the simplest form is a Code Editor, and a Code Editor is a Place where you write Codes.
+    With Vscode being so Powerful, every Programming Lanuage can be written in it; be it HTML(What you will be learning in classSix) all you have to do is download the necessary extension for that Language, download a compiler only if it needs one... Although, for more complex Languages like Java,Python, or C# 
+    some folks online might tell you you need an IDK(Integrated Development Kit) for Java or they may tell you you have to use PyCharm for Python or them FOlks might also tell you you need to use Visual Studio(different from Vscode) for C# which I totally disagree with.... You can use Vscode to write basically any Programming Language
+
+
+    For this Tutorial, we would be using Vscode to write our codes from the Frontend aspect even unto the backend aspect(I would be teaching you C# for backend then).... Its all gonna be Visual Studio Code(Vscode) 
+    TO clear things up, Visual Studio is very much different from Vscode.... And yes they are both Code Editors but they're different from each other
+
+<====
+
+B. How TO download VsCode ====>
+    You can easily download Vscode by going to your Favourite Browser and typing: "download Vscode"
+    Click on the download link and instantly, your Download of Vscode Begins.... For a slow Internet, expect to download in 5minutes or more and for a Fast internet, it shouldn't take you up to 5minutes
+
+    THis is not part of the TUtorial though; but If you ever want to check the speed of your internet, just type in "www.Fast.com" in your Browser
+
+<====
+
+C. How git and Vscode work hand in hand ====>
+    Yes, from the beginning of this Course we have been using the Git Bash Terminal to write Commands; Yeah all you've written are commands.... Now we want to start writing code, and thats why we downloaded a code Editor
