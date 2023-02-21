@@ -64,9 +64,11 @@ D. THe VsCode Window ====>
     As you will recall; I told you any file that ends with an extension(e.g .txt, .html) are all files
     I also said the .txt file is a text file where you can write basic texts... like a Composition on yourself, your Favourite Fodd, e.t.C
     THe index.html file is an HTML file(or document) and HTMl stands for Hyper Text Mark-up Language
-    Html is the Language 
+    Html is the Language OF THE WEB.... You have probably seen many websites in your lifetime; you should not that each and every static website out there was written with HTMl.... Html is what you see in every website like a download button,  a welcome text on a website, e.t.c are all HTMl
 
+    We will still cover more on Html because it is the first Language you will be learning in this Tutorial... 
 
+    But for now, you should note that files ending with the extension(.html), in those files a Language called Html is written there and that Language is the Language of the Web
 
 <====
 
