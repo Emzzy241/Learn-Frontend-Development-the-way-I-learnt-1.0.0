@@ -13,7 +13,7 @@ Learn-Frontend-Development-the-way-I-learnt-1.0.0 and its great to have you here
     C. PATHS; What they are, How to Use them in the Git Terminal
     D. HOW TO CHANGE DIRECTORIES IN git; the cd command
     E. ONLINE RESOURCES TO teach More of Git
-    F. First Warm Up and Exercise
+    First Warm Up and Exercise
 
 
 
@@ -34,7 +34,7 @@ A. How to Move Files or folders in the Git Terminal  ====>
 
     PLEASE NOTE: this should be run inside the parent directory: myLearn(i.e we should right-click and select a git bash here inside the Parent directory myLearn), because inside our parent directory(myLearn) is where both our learn and C-sharp folders exists in
 
-    Command: mv learn/noLearn.txt C-sharp
+    Code: mv learn/noLearn.txt C-sharp
     Automatically, the command above moves the noLearn.txt file into the C-sharp directory
 
     Lets go over what we did: We first use the command mv to tell git we want to move something
@@ -54,7 +54,7 @@ B. How to COPY Files or folders in the Git Terminal ====>
 
     AGAIN, I would repeat myself that this should be done only in the Parent Directory(myLearn) otherwise git won't be able to find any file to copy or move
 
-    Command: cp learn/index.html C-sharp
+    Code: cp learn/index.html C-sharp
     YAY our index.html file that existed only in the learn directory has been copied intp the C-sharp directory
     
     In summary, we want to copy a file that exists in the learn directory into the C-sharp directory so it exists in both the C-sharp and learn directories
@@ -79,17 +79,31 @@ D. HOW TO CHANGE DIRECTORIES IN git; the cd command ====>
 
     Still using the example under section A, Lets say we are in the C-sharp directory and we do the following:
     We first create another folder named userName inside of our C-sharp folder
-    We can easily enter the userName folder by the following command: cd userName ...... 
+    We can easily enter the userName folder by the following codeCode: cd userName ...... 
 
     We are now in the userName, Lets say we want to get back into the C-sharp folder 
     we can simply do cd ..
     The (cd ..) command tells the Git Terminal window to go back one step to previous directory we were in Previously(the C-sharp directory)
 
     Let us go back into the userName directory(cd userName). Lets say finally, we want to get back into our Parent directory(the myLearn directory) this means we have to go backwards 2 steps
-    To do this now we simply run the command: 
-    Command: cd ../../
+    To do this now we simply run the codeCode: 
+    Code: cd ../../
 
-    The above tells git to go 2 steps backwards straight into the myLearn directory which i sour Parent directory
+    The above tells git to go 2 steps backwards straight into the myLearn directory which is our Parent directory
+<====
+
+BONUS ====>
+    How to remove/delete a file in git Bash Terminal
+    Still from the section A example, say we are in our Parent directory(myLearn) we created a file(nanny.txt) inside our userName directory like this: touch C-sharp/userName/nanny.txt
+
+    We can easily delete/remove our nanny.txt file by doing the below:
+    Code: rm C-sharp/userName/nanny.txt
+
+    HERE, all we have to do is use rm(short for remove) and we specify the location git can find what we want to remove or delete
+    NOTE: THE rm command only works on files, it cannot be used to remove directories
+    ALSO NOTE: If you get lost into so many directories, just run the command: pwd(short for print working directory) and this would show you your present location
+    ALSO NOTE: you can easily list out the directories, files or folders that exists within a directory with the "ls" command which of short for list... And it would list out all the files, directories that exist in the directory you are currenty on
+
 <====
 
 E. ONLINE RESOURCES TO teach More of Git ====>
@@ -101,4 +115,12 @@ E. ONLINE RESOURCES TO teach More of Git ====>
     But what you should do is to ensure you learn only few, I repeat: learn only few of them.... Not a few of them because you are just getting started with coding.
 
     Goodluck :)
+<====
+
+First Warm Up and Exercise ====>
+
+    (i) Write the full names for the following command: rm, cp, mv, and ls commands
+    (ii) Create many more directories inside the myLearn directory(more than 5) and enter into the last directory you created(the 5th or higher), and make git go 5 steps backwards into the Parent Directory(myLearn)
+    (iii) List 4 to 6 new commands you learnt from your research online
+    
 <====
