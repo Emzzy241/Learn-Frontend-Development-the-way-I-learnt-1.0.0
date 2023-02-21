@@ -41,3 +41,54 @@ A. How to Move Files or folders in the Git Terminal  ====>
 
 ====>
 
+B. How to COPY Files or folders in the Git Terminal ====>
+    Next up, we want to learn how to copy a file inside our git bash Terminal,
+    TO do this is pretty easy; as all we just have to do is very similar to the move command we performed in section A.
+    Again, we first need to tell git where(the location) to find what we want to copy, then we add a space after inputting that first location
+    And for the second location, we tell git where we want to store what we have just copied(i.e the location for pasting)
+
+    Lets use our previous example(the one in section A)
+    Say this time around we want to copy our index.html file that exists in the learn directory into the C-sharp directory
+
+    AGAIN, I would repeat myself that this should be done only in the Parent Directory(myLearn) otherwise git won't be able to find any file to copy or move
+
+    Command: cp learn/index.html C-sharp
+    YAY our index.html file that existed only in the learn directory has been copied intp the C-sharp directory
+    
+    In summary, we want to copy a file that exists in the learn directory into the C-sharp directory so it exists in both the C-sharp and learn directories
+    We use the command cp to tell git we want to cp=opy something, then we tell git to first find what we want to copy which is the index.html file in learn directory(learn/index.html) and finally w tell the destination we want our copied file to be stored in which is the C-sharp directory(C-sharp)
+
+<====
+
+C. PATHS; What they are, How to Use them in the Git Terminal ====>
+    Let us look at PATHS; you are probably asking yourself what the backslash symbol(/) means.
+    When we use the backslash(/) or the frontslash(\) sysmbols we are basically telling our Terminal that we want to specify a specific path where it can find something
+    NOTE: The backslash(/) and frontslash(\) symbols don't only exist in git, they exist in the Macintosh Terminal window, they exist in the CMD prompt Terminal window, and even the Linux Terminal Windows... So don't think they only exist in the Git Bash Terminal
+    
+    In programming, we only make use of the backslash(/) not the frontslash(\) there are other usecases for the frontslash(\) but thats beyond the scope of this tutorial... You can check them up online to find out what they do, and you can also heck if there is any relation between the frontslash(\) and programming in general
+
+    The backslash tells git to move into something or to move out of something.... For noew we are still considering how to menter into something, later on in this course when we treat the cd command, you'll learn how to move out of something
+<====
+
+D. HOW TO CHANGE DIRECTORIES IN git; the cd command ====>
+    There is also an amazing commad called the cd command and that is short for change directory(this helps git change from one directory into another) it can also be used to enter into other directories from one directory.
+    So just like the cp command is short for copy
+    Like the mv command is short for move, the cd command is also an abbreviation for change directory
+
+    Still using the example under section A, Lets say we are in the C-sharp directory and we do the following:
+    We first create another folder named userName inside of our C-sharp folder
+    We can easily enter the userName folder by the following command: cd userName ...... 
+
+    We are now in the userName, Lets say we want to get back into the C-sharp folder 
+    we can simply do cd ..
+    The (cd ..) command tells the Git Terminal window to go back one step to previous directory we were in Previously(the C-sharp directory)
+
+    Let us go back into the userName directory(cd userName). Lets say finally, we want to get back into our Parent directory(the myLearn directory) this means we have to go backwards 2 steps
+    To do this now we simply run the command: 
+    Command: cd ../../
+
+    The above tells git to go 2 steps backwards straight into the myLearn directory which i sour Parent directory
+
+
+
+<====
