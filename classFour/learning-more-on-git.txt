@@ -11,7 +11,9 @@ Learn-Frontend-Development-the-way-I-learnt-1.0.0 and its great to have you here
     A. How to Move Files or folders in the Git Terminal
     B. How to COPY Files or folders in the Git Terminal
     C. PATHS; What they are, How to Use them in the Git Terminal
-    D. ONLINE RESOURCES TO teach More of Git
+    D. HOW TO CHANGE DIRECTORIES IN git; the cd command
+    E. ONLINE RESOURCES TO teach More of Git
+    F. First Warm Up and Exercise
 
 
 
@@ -88,7 +90,14 @@ D. HOW TO CHANGE DIRECTORIES IN git; the cd command ====>
     Command: cd ../../
 
     The above tells git to go 2 steps backwards straight into the myLearn directory which i sour Parent directory
+<====
 
+E. ONLINE RESOURCES TO teach More of Git ====>
+    Like I siad earlier on, I am not going to be teaching you each and every single command that exists on git; they are very broad, even I myself don't know a ton of them.
+    And if there is one thing I said at the beginning of this Tutorial is that we are all Learners in the Developer world
+    Even on my Twitter Page(@Emzzy241) I indicated there that I was a Learner Developer.... Because as a developer you just have to keep Learning new things each and every single day
+
+    So This section E is basically telling you that there are a vast amount of onl
 
 
 <====
